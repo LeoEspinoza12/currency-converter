@@ -1,0 +1,15 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-promises.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aiman",
+  "license": "ISC"
+}
